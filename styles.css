@@ -1,3 +1,20 @@
 .recipe {
-    position: absolute;
+    margin: auto;
+    padding: 50px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+.recipeTitle {
+    text-align: center;
+}
+.examples{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.examples, li {
+    margin: 20px;
+    text-align: left;
 }
